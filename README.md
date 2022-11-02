@@ -1,9 +1,10 @@
 <div align = "center">
 
-  # SST_Crypto
-  This project is a program for encrypting or decrypting the desired string.
+  ![Banner](https://user-images.githubusercontent.com/82009667/199388561-5329a48e-c9ea-4c75-86a2-aef054c9e64b.png)
   
-  ---
+</div>
+
+  ### This project is a program for encrypting or decrypting the desired string.
   
   ### The main functions are as follows.
   
@@ -14,10 +15,10 @@
   ◆ Decrypt input string
   
   ◆ Diverse Decryption,Encryption <Br>
-  ▷ Base64 Cipher <Br>
-  ▷ Caesar_Cipher <Br>
-  ▷ Vigenère Cipher <Br>
-  ▷ AES Cipher <Br>
+  - Base64 Cipher <Br>
+  - Caesar_Cipher <Br>
+  - Vigenère Cipher <Br>
+  - AES Cipher <Br>
   
   # Install
   ```
@@ -26,5 +27,17 @@
   
   # View
   
+  # About it
   
-</div>
+  ### Language used : Python
+  
+  ### Library
+  - base64 (Base64)
+  - PyCryptodome (AES)
+  - PyQT,PySide (GUI)
+  
+  ### Developer
+  - Project Manager : [Gaeduck-0908](https://github.com/gaeduck-0908) <br>
+  - FrontEnd : []() <br>
+  - BackEnd : []() <br>
+  - BackEnd : []() <br>

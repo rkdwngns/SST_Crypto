@@ -40,4 +40,4 @@
   - Project Manager : [Gaeduck-0908](https://github.com/gaeduck-0908) <br>
   - FrontEnd : [wngh1212](https://github.com/wngh1212) <br>
   - BackEnd : [2005Payne](https://github.com/2005Payne) <br>
-  - BackEnd : []() <br>
+  - BackEnd : [hyunta12](https://github.com/rkdwngns) <br>

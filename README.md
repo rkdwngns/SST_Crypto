@@ -39,5 +39,5 @@
   ### Developer
   - Project Manager : [Gaeduck-0908](https://github.com/gaeduck-0908) <br>
   - FrontEnd : [wngh1212](https://github.com/wngh1212) <br>
-  - BackEnd : []() <br>
+  - BackEnd : [payne2005](httpsL//github.com.payne2005) <br>
   - BackEnd : []() <br>
